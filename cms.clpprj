@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\wamp\www\trials\cms\cms.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/trials/cms/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/trials/cms/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\wamp\www\trials\cms\widget_corp\includes\functions.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\manage_content.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\index.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\includes\db_connection.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\includes\layouts\footer.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\includes\layouts\header.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\stylesheets\public.css"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\new_subject.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\create_subject.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\includes\session.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\new_page.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\edit_page.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\delete_page.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\admin.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\login.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\new_admin.php"/>
+		<file name="C:\wamp\www\trials\cms\widget_corp\public\logout.php"/>
+	</lastopfiles>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="../includes/db_connection.php;PHP:PHP Include;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f20;1;49;1;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f20;1;49;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/functions.php;PHP:PHP Include;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\admin.php;f20;1;45;1;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\logout.php;f20;1;45;1;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f20;2;45;2;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f20;2;45;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/layouts/footer.php;PHP:PHP Include;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f15;47;45;47;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f15;21;45;21;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f15;109;45;109;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f15;122;45;122;;C:\wamp\www\trials\cms\widget_corp\public\admin.php;f15;19;45;19;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f15;121;45;121;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f15;71;45;71;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f15;87;45;87;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f16;43;46;43;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f15;61;45;61;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f15;68;45;68;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/layouts/header.php;PHP:PHP Include;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f15;5;45;5;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f15;4;45;4;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f15;65;45;65;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f15;70;45;70;;C:\wamp\www\trials\cms\widget_corp\public\admin.php;f15;4;45;4;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f15;69;45;69;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f15;47;45;47;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f15;60;45;60;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f15;10;45;10;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f15;41;45;41;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f15;5;45;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/session.php;PHP:PHP Include;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\admin.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\logout.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f20;0;43;0;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f20;0;43;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/validation_functions.php;PHP:PHP Include;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f20;4;56;4;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f20;4;56;4;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f20;4;56;4;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f20;4;56;4;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f20;4;56;4;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f20;4;56;4;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f20;3;56;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/functions.php;PHP:PHP Include;Codelobster1.php;f20;1;45;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/session.php;PHP:PHP Include;Codelobster1.php;f20;0;43;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/db_connection.php;PHP:PHP Include;Codelobster4.php;f20;1;49;1;;Codelobster2.php;f20;1;49;1;;Codelobster3.php;f20;1;49;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/functions.php;PHP:PHP Include;Codelobster4.php;f20;2;45;2;;Codelobster2.php;f20;2;45;2;;Codelobster3.php;f20;2;45;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/layouts/footer.php;PHP:PHP Include;Codelobster2.php;f15;70;45;70;;Codelobster3.php;f15;86;45;86;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/layouts/header.php;PHP:PHP Include;Codelobster2.php;f15;46;45;46;;Codelobster3.php;f15;59;45;59;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/session.php;PHP:PHP Include;Codelobster4.php;f20;0;43;0;;Codelobster2.php;f20;0;43;0;;Codelobster3.php;f20;0;43;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../includes/validation_functions.php;PHP:PHP Include;Codelobster2.php;f20;3;56;3;;Codelobster3.php;f20;3;56;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="DB_NAME;PHP:PHP Word;C:\wamp\www\trials\cms\widget_corp\includes\db_connection.php;f8;5;15;5;;;;vpos;;v;;r&quot;widget_corp&quot;;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="DB_PASS;PHP:PHP Word;C:\wamp\www\trials\cms\widget_corp\includes\db_connection.php;f8;4;15;4;;;;vpos;;v;;r&quot;&quot;;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="DB_SERVER;PHP:PHP Word;C:\wamp\www\trials\cms\widget_corp\includes\db_connection.php;f8;2;17;2;;;;vpos;;v;;r&quot;localhost&quot;;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="DB_USER;PHP:PHP Word;C:\wamp\www\trials\cms\widget_corp\includes\db_connection.php;f8;3;15;3;;;;vpos;;v;;r&quot;root&quot;;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="attempt_login;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;296;1;309;;;;vpos;;v;;r;;d45,296;;b0,0;;musername;;ppassword;;p">
+				<treenode node="admin;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;297;7;297;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="password;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f34;296;43;296;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="username;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f23;296;32;296;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="confirm_logged_in;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;315;1;319;;;;vpos;;v;;r;;d29,315;;b0,0;;m">
+			</treenode>
+			<treenode node="confirm_query;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;13;1;17;;;;vpos;;v;;r;;d36,13;;b0,0;;mresult_set;;p">
+				<treenode node="result_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f23;13;34;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="errors;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\session.php;f0;16;1;25;;;;vpos;;v;;r;;d18,16;;b0,0;;m">
+				<treenode node="_SESSION;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\session.php;f12;17;21;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="errors;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\session.php;f5;18;12;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="fieldname_as_text;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;4;1;8;;;;vpos;;v;;r;;d39,4;;b0,0;;mfieldname;;p">
+				<treenode node="fieldname;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f27;4;37;4;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_admin_by_id;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;118;1;134;;;;vpos;;v;;r;;d37,118;;b0,0;;madmin_id;;p">
+				<treenode node="admin;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f3;129;9;129;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="admin_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f26;118;35;118;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="admin_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;127;10;127;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f7;119;18;119;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;123;6;123;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="safe_admin_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;121;14;121;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_admin_by_username;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;136;1;152;;;;vpos;;v;;r;;d43,136;;b0,0;;musername;;p">
+				<treenode node="admin;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f3;147;9;147;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="admin_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;145;10;145;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f7;137;18;137;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;141;6;141;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="safe_username;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;139;14;139;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="username;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f32;136;41;136;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_all_admins;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;66;1;74;;;;vpos;;v;;r;;d27,66;;b0,0;;m">
+				<treenode node="admin_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;71;10;71;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f7;67;18;67;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;68;6;68;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_all_subjects;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;36;1;47;;;;vpos;;v;;r;;d41,36;;b0,0;;mpublic;;p">
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f8;37;19;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="public;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f27;36;34;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;38;6;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;44;12;44;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_default_page_for_subject;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;154;1;161;;;;vpos;;v;;r;;d52,154;;b0,0;;msubject_id;;p">
+				<treenode node="first_page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f4;156;15;156;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;155;10;155;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f39;154;50;154;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_page_by_id;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;97;1;116;;;;vpos;;v;;r;;d49,97;;b0,0;;mpage_id;;ppublic;;p">
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f7;98;18;98;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f3;111;8;111;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f25;97;33;97;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;109;9;109;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="public;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f35;97;42;97;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;102;6;102;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="safe_page_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;100;13;100;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_pages_for_subject;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;49;1;64;;;;vpos;;v;;r;;d59,49;;b0,0;;msubject_id;;ppublic;;p">
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f8;50;19;50;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;61;9;61;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="public;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f45;49;52;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;54;6;54;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="safe_subject_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;52;17;52;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f32;49;43;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_selected_page;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;163;1;181;;;;vpos;;v;;r;;d43,163;;b0,0;;mpublic;;p">
+				<treenode node="_GET;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f10;166;15;166;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="current_page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f11;165;24;165;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="current_subject;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f8;164;24;164;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="public;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f28;163;35;163;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="find_subject_by_id;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;76;1;95;;;;vpos;;v;;r;;d55,76;;b0,0;;msubject_id;;ppublic;;p">
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f7;77;18;77;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="public;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f41;76;48;76;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="query;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;81;6;81;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="safe_subject_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;79;16;79;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f3;90;11;90;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f28;76;39;76;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;88;12;88;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="form_errors;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;19;2;34;;;;vpos;;v;;r;;d38,19;;b0,0;;merrors;;p">
+				<treenode node="error;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f29;25;35;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="errors;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f21;19;28;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="key;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f22;25;26;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="output;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;20;8;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="generate_salt;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;274;1;285;;;;vpos;;v;;r;;d32,274;;b0,0;;mlength;;p">
+				<treenode node="base64_string;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;278;15;278;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="length;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f23;274;30;274;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="modified_base64_string;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;280;24;280;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="salt;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;282;6;282;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="unique_random_string;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;276;22;276;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="has_incusion_in;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;49;1;51;;;;vpos;;v;;r;;d39,49;;b0,0;;mvalue;;pset;;p">
+				<treenode node="set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f33;49;37;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="value;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f25;49;31;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="has_max_length;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;33;1;35;;;;vpos;;v;;r;;d38,33;;b0,0;;mvalue;;pmax;;p">
+				<treenode node="max;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f32;33;36;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="value;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f24;33;30;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="has_presence;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;14;1;16;;;;vpos;;v;;r;;d30,14;;b0,0;;mvalue;;p">
+				<treenode node="value;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f22;14;28;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="logged_in;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;311;1;313;;;;vpos;;v;;r;;d21,311;;b0,0;;m">
+				<treenode node="_SESSION;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f14;312;23;312;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="message;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\session.php;f0;3;1;14;;;;vpos;;v;;r;;d19,3;;b0,0;;m">
+				<treenode node="_SESSION;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\session.php;f12;4;21;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="output;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\session.php;f4;5;11;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="mysql_prep;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;6;1;11;;;;vpos;;v;;r;;d29,6;;b0,0;;mstring;;p">
+				<treenode node="connection;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f8;7;19;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="escaped_string;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;9;16;9;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="string;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f20;6;27;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="navigation;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;183;1;219;;;;vpos;;v;;r;;d48,183;;b0,0;;msubject_array;;ppage_array;;p">
+				<treenode node="output;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;184;8;184;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f6;200;11;200;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_array;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f35;183;46;183;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;197;9;197;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f6;186;14;186;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_array;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f20;183;34;183;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f4;185;16;185;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="password_check;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;287;1;294;;;;vpos;;v;;r;;d51,287;;b0,0;;mpassword;;pexisting_hash;;p">
+				<treenode node="existing_hash;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f35;287;49;287;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="hash;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;288;6;288;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="password;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f24;287;33;287;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="password_encrypt;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;264;1;272;;;;vpos;;v;;r;;d37,264;;b0,0;;mpassword;;p">
+				<treenode node="format_and_salt;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;268;16;268;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="hash;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;270;5;270;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="hash_format;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;265;13;265;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="password;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f26;264;35;264;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="salt;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;267;5;267;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="salt_length;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;266;12;266;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="public_navigation;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;221;1;262;;;;vpos;;v;;r;;d55,221;;b0,0;;msubject_array;;ppage_array;;p">
+				<treenode node="output;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;222;8;222;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f7;241;12;241;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_array;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f42;221;53;221;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f1;238;10;238;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f6;224;14;224;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_array;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f27;221;41;221;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="subject_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f4;223;16;223;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="redirect_to;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f0;1;1;4;;;;vpos;;v;;r;;d36,1;;b0,0;;mnew_location;;p">
+				<treenode node="new_location;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\functions.php;f21;1;34;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="validate_max_lengths;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;37;2;46;;;;vpos;;v;;r;;d56,37;;b0,0;;mfields_with_max_lengths;;p">
+				<treenode node="_POST;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f16;41;22;41;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="errors;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f8;38;15;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="field;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f37;40;43;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="fields_with_max_lengths;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f30;37;54;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="max;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f47;40;51;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="value;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f2;41;8;41;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="validate_presences;PHP:Function Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;19;2;27;;;;vpos;;v;;r;;d46,19;;b0,0;;mrequired_fields;;p">
+				<treenode node="_POST;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f16;22;22;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="errors;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f8;20;15;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="field;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f29;21;35;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="required_fields;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f28;19;44;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="value;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f2;22;8;22;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="_GET;PHP:Var Name;Codelobster4.php;f26;5;31;5;;Codelobster3.php;f26;6;31;6;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f38;6;43;6;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f32;6;37;6;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f26;6;31;6;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f26;7;31;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_POST;PHP:Var Name;Codelobster2.php;f10;6;16;6;;Codelobster3.php;f10;16;16;16;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f9;7;15;7;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f10;18;16;18;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f9;17;15;17;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f10;19;16;19;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f10;7;16;7;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f10;17;16;17;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f10;7;16;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_SESSION;PHP:Var Name;Codelobster4.php;f2;18;11;18;;Codelobster2.php;f2;31;11;31;;Codelobster3.php;f2;43;11;43;;Codelobster1.php;f0;6;9;6;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f2;23;11;23;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f2;49;11;49;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f2;15;11;15;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f2;54;11;54;;C:\wamp\www\trials\cms\widget_corp\public\admin.php;f55;11;64;11;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f2;19;11;19;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f2;53;11;53;;C:\wamp\www\trials\cms\widget_corp\public\logout.php;f0;6;9;6;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f2;32;11;32;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f2;19;11;19;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f2;44;11;44;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f2;25;11;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="admin;PHP:Var Name;Codelobster4.php;f0;5;6;5;;Codelobster3.php;f0;6;6;6;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f0;6;6;6;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f0;7;6;7;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f14;24;20;24;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="admin_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f0;6;10;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="connection;PHP:Var Name;Codelobster4.php;f24;14;35;14;;Codelobster2.php;f27;27;38;27;;Codelobster3.php;f27;39;38;39;;C:\wamp\www\trials\cms\widget_corp\includes\layouts\footer.php;f10;6;21;6;;C:\wamp\www\trials\cms\widget_corp\includes\db_connection.php;f0;13;11;13;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f27;36;38;36;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f27;45;38;45;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f24;21;35;21;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f27;50;38;50;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f24;15;35;15;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f27;49;38;49;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f27;28;38;28;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f24;15;35;15;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f27;40;38;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="content;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;36;9;36;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;27;9;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="count;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f6;29;12;29;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f6;88;12;88;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f6;96;12;96;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f6;92;12;92;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="current_page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f40;11;53;11;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f47;9;60;9;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f40;70;53;70;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f40;75;53;75;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f0;6;13;6;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f6;11;19;11;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f40;13;53;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="current_subject;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f22;11;38;11;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f29;9;45;9;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f5;10;21;10;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f0;6;16;6;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f6;9;22;9;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f22;74;38;74;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f22;13;38;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="errors;PHP:Var Name;Codelobster2.php;f11;16;18;16;;Codelobster3.php;f11;26;18;26;;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f9;16;16;16;;C:\wamp\www\trials\cms\widget_corp\includes\validation_functions.php;f0;2;7;2;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f12;22;19;22;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f11;27;18;27;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f11;29;18;29;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f11;36;18;36;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f11;17;18;17;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f11;27;18;27;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f11;14;18;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="fields_with_max_lengths;PHP:Var Name;Codelobster2.php;f1;13;25;13;;Codelobster3.php;f1;23;25;23;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f1;19;25;19;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;24;25;24;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;26;25;26;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;33;25;33;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f1;14;25;14;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f1;24;25;24;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="found_admin;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\login.php;f4;20;16;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="hashed_password;PHP:Var Name;Codelobster2.php;f1;20;17;20;;Codelobster3.php;f1;32;17;32;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f1;21;17;21;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f1;33;17;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="id;PHP:Var Name;Codelobster4.php;f1;12;4;12;;Codelobster3.php;f1;30;4;30;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f1;19;4;19;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;35;4;35;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f1;13;4;13;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;23;4;23;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f1;13;4;13;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f1;31;4;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="layout_context;PHP:Var Name;Codelobster2.php;f6;45;21;45;;Codelobster3.php;f6;58;21;58;;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f6;4;21;4;;C:\wamp\www\trials\cms\widget_corp\includes\layouts\header.php;f11;1;26;1;;C:\wamp\www\trials\cms\widget_corp\public\index.php;f6;3;21;3;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f6;64;21;64;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f6;69;21;69;;C:\wamp\www\trials\cms\widget_corp\public\admin.php;f6;3;21;3;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f6;68;21;68;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f6;46;21;46;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f6;59;21;59;;C:\wamp\www\trials\cms\widget_corp\public\manage_admins.php;f6;9;21;9;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f6;40;21;40;;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f6;4;21;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="menu_name;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f1;11;11;11;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;32;11;32;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;36;11;36;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;24;11;24;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="message;PHP:Var Name;Codelobster3.php;f2;47;10;47;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f2;58;10;58;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f2;57;10;57;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f2;48;10;48;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="page;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f6;34;11;34;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="page_count;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;87;12;87;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;91;12;91;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="page_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;86;10;86;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;90;10;90;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="pages_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f1;13;11;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="password;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\login.php;f4;18;13;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="position;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f1;12;10;12;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;33;10;33;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;37;10;37;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;25;10;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="query;PHP:Var Name;Codelobster4.php;f1;13;7;13;;Codelobster2.php;f1;22;7;22;;Codelobster3.php;f1;34;7;34;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f1;31;7;31;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;40;7;40;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f1;20;7;20;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;44;7;44;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f1;14;7;14;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;42;7;42;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f1;23;7;23;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f1;14;7;14;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f1;35;7;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="required_fields;PHP:Var Name;Codelobster2.php;f1;10;17;10;;Codelobster3.php;f1;20;17;20;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f1;16;17;16;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;21;17;21;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;23;17;23;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;30;17;30;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f1;11;17;11;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f1;21;17;21;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f1;11;17;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="result;PHP:Var Name;Codelobster4.php;f1;14;8;14;;Codelobster2.php;f4;27;11;27;;Codelobster3.php;f4;39;11;39;;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f4;36;11;36;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f4;45;11;45;;C:\wamp\www\trials\cms\widget_corp\public\delete_subject.php;f1;21;8;21;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f4;50;11;50;;C:\wamp\www\trials\cms\widget_corp\public\delete_page.php;f1;15;8;15;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f4;49;11;49;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f4;28;11;28;;C:\wamp\www\trials\cms\widget_corp\public\delete_admin.php;f1;15;8;15;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f4;40;11;40;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="safe_page_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f0;36;13;36;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="subject_count;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f1;28;15;28;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;95;15;95;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="subject_id;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;31;12;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="subject_pages;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\manage_content.php;f0;33;14;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="subject_set;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\new_subject.php;f1;27;13;27;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;94;13;94;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="username;PHP:Var Name;Codelobster2.php;f1;19;10;19;;Codelobster3.php;f1;31;10;31;;C:\wamp\www\trials\cms\widget_corp\public\new_admin.php;f1;20;10;20;;C:\wamp\www\trials\cms\widget_corp\public\edit_admin.php;f1;32;10;32;;C:\wamp\www\trials\cms\widget_corp\public\login.php;f0;6;9;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="visible;PHP:Var Name;C:\wamp\www\trials\cms\widget_corp\public\create_subject.php;f1;13;9;13;;C:\wamp\www\trials\cms\widget_corp\public\new_page.php;f1;34;9;34;;C:\wamp\www\trials\cms\widget_corp\public\edit_subject.php;f1;38;9;38;;C:\wamp\www\trials\cms\widget_corp\public\edit_page.php;f1;26;9;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+	</filescache>
+</project>
